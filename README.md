@@ -1,2 +1,2 @@
 # P2P-Network
-This Project is A P2P Network Simulation Using Python Programming Language.
+This Project is a Multi-Thread Simuation of a P2P Network Using Python Programming Language.
